@@ -24,7 +24,7 @@ const SpecialMenu = () => (
     </div>
 
    <div className='app__specialmenu-menu_img'>
-    <img src={images.menu} alt='menu image'/>
+    <img src={images.menu1} alt='menu image'/>
     </div> 
     <div className='app__specialmenu-menu_cocktails flex__center'>
       <p className='app__specialmenu-menu_heading'>Cocktails</p>
@@ -37,7 +37,7 @@ const SpecialMenu = () => (
    </div>
 
    <div style={{marginTop:'15px'}}>
-    <button type='button' className='custom__button'>View More</button>
+    <button type='button' className='custom__button' style={{marginBottom:'40px'}}>View More</button>
    </div>
 
   </div>

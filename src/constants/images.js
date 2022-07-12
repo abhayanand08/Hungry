@@ -21,6 +21,8 @@ import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import hungry from '../assets/hungry.png';
 import hungrylogo from '../assets/hungry logo.png';
+import abhaysign from '../assets/abhaysign.png';
+import menu1 from '../assets/menu1.jpg'
 
 export default {
   bg,
@@ -45,5 +47,7 @@ export default {
   sign,
   quote,
   hungry,
-  hungrylogo
+  hungrylogo,
+  abhaysign,
+  menu1
 };
