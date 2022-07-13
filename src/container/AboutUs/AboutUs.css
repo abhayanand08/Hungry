@@ -23,6 +23,10 @@
     flex-direction: column;
     text-align: right;
 }
+.app__aboutus-image-h{
+    z-index: 5;
+    opacity: 30%;
+}
 .app__aboutus-content_knife{
     margin: 2rem 4rem;
 }
