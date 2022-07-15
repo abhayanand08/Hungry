@@ -24,9 +24,10 @@ import hungrylogo from '../assets/hungry logo.png';
 import abhaysign from '../assets/abhaysign.png';
 import menu1 from '../assets/menu1.jpg';
 import H from '../assets/H.png';
-import pizza from '../assets/pizza.jpg'
-import pizza1 from '../assets/pizza1.jpg'
-import shakes from '../assets/shakes.jpg'
+import pizza from '../assets/pizza.jpg';
+import pizza1 from '../assets/pizza1.jpg';
+import shakes from '../assets/shakes.jpg';
+import cocktails from '../assets/cocktail.jpg';
 
 export default {
   bg,
@@ -58,5 +59,5 @@ export default {
   pizza,
   pizza1,
   shakes,
-  
+  cocktails
 };

@@ -18,7 +18,7 @@ const Footer = () => (
     </div>
     <div className='app__footer-links_logo'>
       <img src={images.hungrylogo} alt='Hungry'/>
-      <p className='p__opensans'>"If more of us valued food and cheer and song above hoarded gold, it would be a merrier world."</p>
+      <p className='p__opensans' style={{color:'var(--color-golden)'}}>"If more of us valued food and cheer and song above hoarded gold, it would be a merrier world."</p>
       <img src={images.spoon} alt='Spoon' className='spoon__img' style={{marginTop: '15px'}}/>
       <div className='app__footer-links_icons'>
         <FiFacebook />
