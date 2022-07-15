@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/Hungry/static/css/main.35993025.css",
-    "main.js": "/Hungry/static/js/main.8af4f5c5.js",
+    "main.js": "/Hungry/static/js/main.90af9278.js",
     "static/media/meal.mp4": "/Hungry/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/Hungry/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/welcome.png": "/Hungry/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/cocktail.jpg": "/Hungry/static/media/cocktail.7a967da38505997b2deb.jpg",
     "static/media/findus.png": "/Hungry/static/media/findus.585c393ccd3671513743.png",
     "static/media/laurels.png": "/Hungry/static/media/laurels.e760828692795d4aafd7.png",
     "static/media/pizza1.jpg": "/Hungry/static/media/pizza1.67f474f0beae80cbdbbf.jpg",
@@ -31,10 +32,10 @@
     "index.html": "/Hungry/index.html",
     "static/media/spoon.svg": "/Hungry/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
     "main.35993025.css.map": "/Hungry/static/css/main.35993025.css.map",
-    "main.8af4f5c5.js.map": "/Hungry/static/js/main.8af4f5c5.js.map"
+    "main.90af9278.js.map": "/Hungry/static/js/main.90af9278.js.map"
   },
   "entrypoints": [
     "static/css/main.35993025.css",
-    "static/js/main.8af4f5c5.js"
+    "static/js/main.90af9278.js"
   ]
 }
